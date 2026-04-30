@@ -7,4 +7,5 @@ body{
 }
 .bulgogi{
     text-align: right;
+    min-width: 900px;
 }
